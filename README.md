@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Palani</h1>
 <h3 align="center">A Computer Science Student</h3>
 
-- 🌱 I’m currently learning **MERN Stack and Data Structure Algorithm**
+- 🌱 I’m currently learning **Data Structure Algorithm, Java and SpringBoot**
 
 - 💬 Ask me about **DSA in C,C++**
 
