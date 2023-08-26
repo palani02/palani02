@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/palani-paranthaman-484b131bb/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://vercel.com/palani02/port-folio" target="_blank">
+  <a href="https://port-folio-opal.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
