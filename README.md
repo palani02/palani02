@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Palani+Baba!;" />
 </h1>
 
-<h3 align="center">A passionate Computer Science Student🇨🇦</h3>
+<h3 align="center">A passionate Computer Science Student</h3>
 
 <br/>
 
@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **Spring Framework**
 
- 💬 Ask me about **Java, C, C++, Data Structure And Algo, MongoDB or Anything.......**
+ 💬 Ask me about **Java, C, C++, Data Structure And Algo or Anything in General.......**
 
  
  </div>
