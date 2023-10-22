@@ -36,7 +36,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,c,cpp,spring,github,javascript" /><br>
-    <img src="https://skillicons.dev/icons?i=swift,swiftUI,kotlin,mysql,html,css,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=swift,swiftui,kotlin,mysql,html,css,vscode,git" />
 </div>
 
 <br/>
