@@ -11,9 +11,9 @@
 <div align="center">
  
  
- 🌱 I’m currently learning **Spring Framework**
+ 🌱 I’m currently learning **SpringBoot Framework**
 
- 💬 Ask me about **Java, C, C++, Data Structure And Algo or Anything in General.......**
+ 💬 Ask me about **Java, C, C++, Data Structure And Algo**
 
  
  </div>
@@ -35,8 +35,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,spring,github,javascript,mongodb" /><br>
-    <img src="https://skillicons.dev/icons?i=kotlin,mysql,html,css,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,spring,github,javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=swift,swiftUI,kotlin,mysql,html,css,vscode,git" />
 </div>
 
 <br/>
