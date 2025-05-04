@@ -9,8 +9,9 @@
 <h1 align="center">🧠 Backend Developer | Distributed Systems | Problem Solver</h1>
 
 <p align="center">
-🚀 I'm passionate about designing **scalable architectures**, building **resilient backend systems**, and solving **real-world engineering challenges**.
+  🚀 I'm passionate about designing <strong>scalable architectures</strong>, building <strong>resilient backend systems</strong>, and solving <strong>real-world engineering challenges</strong>.
 </p>
+
 
 ---
 
