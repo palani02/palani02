@@ -1,7 +1,7 @@
 <!-- Palani GitHub Profile - Sleek and Modern -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Palani+%F0%9F%91%8B;Backend+Engineer+%7C+Java+Specialist;System+Design+%26+DSA+Enthusiast;Let's+Build+Scalable+Systems!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Palani+%F0%9F%91%8B;Backend+Engineer+%7C+Java+Specialist;System+Design+%26+DSA+Enthusiast;Let's+Build+Scalable+Systems!" alt="Typing SVG" />
 </p>
 
 ---
